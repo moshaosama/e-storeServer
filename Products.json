@@ -1,0 +1,1091 @@
+[
+    {
+        "type": "Fruits",
+        "name": "Mint",
+        "price": 30.78,
+        "image": "https://example.com/apple.jpg",
+        "stock": 731
+    },
+    {
+        "type": "Fruits",
+        "name": "Apple",
+        "price": 2.99,
+        "image": "https://example.com/apple.jpg",
+        "stock": 1200
+    },
+    {
+        "type": "Fruits",
+        "name": "Banana",
+        "price": 1.29,
+        "image": "https://example.com/banana.jpg",
+        "stock": 900
+    },
+    {
+        "type": "Fruits",
+        "name": "Orange",
+        "price": 3.49,
+        "image": "https://example.com/orange.jpg",
+        "stock": 1100
+    },
+    {
+        "type": "Fruits",
+        "name": "Strawberry",
+        "price": 5.99,
+        "image": "https://example.com/strawberry.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Fruits",
+        "name": "Grapes",
+        "price": 4.99,
+        "image": "https://example.com/grapes.jpg",
+        "stock": 650
+    },
+    {
+        "type": "Fruits",
+        "name": "Pineapple",
+        "price": 3.79,
+        "image": "https://example.com/pineapple.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Fruits",
+        "name": "Blueberry",
+        "price": 6.49,
+        "image": "https://example.com/blueberry.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Fruits",
+        "name": "Kiwi",
+        "price": 2.49,
+        "image": "https://example.com/kiwi.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Fruits",
+        "name": "Mango",
+        "price": 3.89,
+        "image": "https://example.com/mango.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Vegetables",
+        "name": "Carrot",
+        "price": 1.49,
+        "image": "https://example.com/carrot.jpg",
+        "stock": 1000
+    },
+    {
+        "type": "Vegetables",
+        "name": "Broccoli",
+        "price": 2.99,
+        "image": "https://example.com/broccoli.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Vegetables",
+        "name": "Spinach",
+        "price": 1.99,
+        "image": "https://example.com/spinach.jpg",
+        "stock": 750
+    },
+    {
+        "type": "Vegetables",
+        "name": "Tomato",
+        "price": 2.49,
+        "image": "https://example.com/tomato.jpg",
+        "stock": 1200
+    },
+    {
+        "type": "Vegetables",
+        "name": "Cucumber",
+        "price": 1.29,
+        "image": "https://example.com/cucumber.jpg",
+        "stock": 950
+    },
+    {
+        "type": "Vegetables",
+        "name": "Pepper",
+        "price": 2.79,
+        "image": "https://example.com/pepper.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Vegetables",
+        "name": "Lettuce",
+        "price": 1.59,
+        "image": "https://example.com/lettuce.jpg",
+        "stock": 1100
+    },
+    {
+        "type": "Vegetables",
+        "name": "Onion",
+        "price": 1.99,
+        "image": "https://example.com/onion.jpg",
+        "stock": 1300
+    },
+    {
+        "type": "Vegetables",
+        "name": "Garlic",
+        "price": 3.19,
+        "image": "https://example.com/garlic.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Vegetables",
+        "name": "Potato",
+        "price": 0.99,
+        "image": "https://example.com/potato.jpg",
+        "stock": 1500
+    },
+    {
+        "type": "Vegetables",
+        "name": "Zucchini",
+        "price": 2.29,
+        "image": "https://example.com/zucchini.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Vegetables",
+        "name": "Sweet Corn",
+        "price": 1.89,
+        "image": "https://example.com/sweetcorn.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Vegetables",
+        "name": "Beetroot",
+        "price": 2.49,
+        "image": "https://example.com/beetroot.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Vegetables",
+        "name": "Celery",
+        "price": 1.79,
+        "image": "https://example.com/celery.jpg",
+        "stock": 650
+    },
+    {
+        "type": "Vegetables",
+        "name": "Brussels Sprouts",
+        "price": 3.29,
+        "image": "https://example.com/brusselssprouts.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Olive Oil",
+        "price": 6.99,
+        "image": "https://example.com/oliveoil.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Salt",
+        "price": 1.29,
+        "image": "https://example.com/salt.jpg",
+        "stock": 1500
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Pepper",
+        "price": 2.49,
+        "image": "https://example.com/pepper.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Vinegar",
+        "price": 3.79,
+        "image": "https://example.com/vinegar.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Sugar",
+        "price": 2.29,
+        "image": "https://example.com/sugar.jpg",
+        "stock": 900
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Flour",
+        "price": 1.89,
+        "image": "https://example.com/flour.jpg",
+        "stock": 1100
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Butter",
+        "price": 4.49,
+        "image": "https://example.com/butter.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Soy Sauce",
+        "price": 3.49,
+        "image": "https://example.com/soy.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Tomato Sauce",
+        "price": 2.79,
+        "image": "https://example.com/tomatosauce.jpg",
+        "stock": 750
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Garlic Powder",
+        "price": 3.19,
+        "image": "https://example.com/garlicpowder.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Baking Powder",
+        "price": 1.99,
+        "image": "https://example.com/bakingpowder.jpg",
+        "stock": 650
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Cinnamon",
+        "price": 2.99,
+        "image": "https://example.com/cinnamon.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Chili Powder",
+        "price": 2.69,
+        "image": "https://example.com/chilipowder.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Cooking Essentials",
+        "name": "Italian Seasoning",
+        "price": 2.89,
+        "image": "https://example.com/italianseasoning.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Chocolate Cake",
+        "price": 12.99,
+        "image": "https://example.com/chocolatecake.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Vanilla Cookies",
+        "price": 4.49,
+        "image": "https://example.com/vanillacookies.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Brownie",
+        "price": 5.99,
+        "image": "https://example.com/brownie.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Cupcakes",
+        "price": 7.49,
+        "image": "https://example.com/cupcakes.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Cheesecake",
+        "price": 14.99,
+        "image": "https://example.com/cheesecake.jpg",
+        "stock": 150
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Gingerbread Cookies",
+        "price": 3.79,
+        "image": "https://example.com/gingerbread.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Fruit Cake",
+        "price": 11.99,
+        "image": "https://example.com/fruitcake.jpg",
+        "stock": 180
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Macarons",
+        "price": 9.99,
+        "image": "https://example.com/macarons.jpg",
+        "stock": 220
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Lemon Bars",
+        "price": 4.99,
+        "image": "https://example.com/lemonbars.jpg",
+        "stock": 270
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Almond Biscotti",
+        "price": 5.49,
+        "image": "https://example.com/biscotti.jpg",
+        "stock": 340
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Butter Cookies",
+        "price": 3.99,
+        "image": "https://example.com/buttercookies.jpg",
+        "stock": 420
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Pound Cake",
+        "price": 6.29,
+        "image": "https://example.com/poundcake.jpg",
+        "stock": 310
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Red Velvet Cake",
+        "price": 13.49,
+        "image": "https://example.com/redvelvet.jpg",
+        "stock": 140
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Oatmeal Raisin Cookies",
+        "price": 4.79,
+        "image": "https://example.com/oatmealraisin.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Biscuits & Cakes",
+        "name": "Cinnamon Rolls",
+        "price": 5.79,
+        "image": "https://example.com/cinnamonrolls.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Household Tools",
+        "name": "Broom",
+        "price": 12.99,
+        "image": "https://example.com/broom.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Household Tools",
+        "name": "Dustpan",
+        "price": 3.99,
+        "image": "https://example.com/dustpan.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Household Tools",
+        "name": "Mop",
+        "price": 15.49,
+        "image": "https://example.com/mop.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Household Tools",
+        "name": "Sponge",
+        "price": 1.49,
+        "image": "https://example.com/sponge.jpg",
+        "stock": 1000
+    },
+    {
+        "type": "Household Tools",
+        "name": "Cleaning Cloth",
+        "price": 2.99,
+        "image": "https://example.com/cleaningcloth.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Household Tools",
+        "name": "Plunger",
+        "price": 5.49,
+        "image": "https://example.com/plunger.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Household Tools",
+        "name": "Trash Can",
+        "price": 10.99,
+        "image": "https://example.com/trashcan.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Household Tools",
+        "name": "Vacuum Cleaner",
+        "price": 89.99,
+        "image": "https://example.com/vacuum.jpg",
+        "stock": 150
+    },
+    {
+        "type": "Household Tools",
+        "name": "Bucket",
+        "price": 4.49,
+        "image": "https://example.com/bucket.jpg",
+        "stock": 550
+    },
+    {
+        "type": "Household Tools",
+        "name": "Scissors",
+        "price": 2.79,
+        "image": "https://example.com/scissors.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Household Tools",
+        "name": "Toilet Brush",
+        "price": 3.49,
+        "image": "https://example.com/toiletbrush.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Household Tools",
+        "name": "Squeegee",
+        "price": 4.99,
+        "image": "https://example.com/squeegee.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Household Tools",
+        "name": "Iron",
+        "price": 25.99,
+        "image": "https://example.com/iron.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Household Tools",
+        "name": "Fire Extinguisher",
+        "price": 39.99,
+        "image": "https://example.com/fireextinguisher.jpg",
+        "stock": 100
+    },
+    {
+        "type": "Household Tools",
+        "name": "Dish Rack",
+        "price": 8.49,
+        "image": "https://example.com/dishrack.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Food",
+        "price": 24.99,
+        "image": "https://example.com/dogfood.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Litter",
+        "price": 15.49,
+        "image": "https://example.com/catlitter.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Bed",
+        "price": 45.99,
+        "image": "https://example.com/dogbed.jpg",
+        "stock": 150
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Toys",
+        "price": 7.99,
+        "image": "https://example.com/cattoys.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Collar",
+        "price": 12.49,
+        "image": "https://example.com/dogcollar.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Scratcher",
+        "price": 18.99,
+        "image": "https://example.com/catscratcher.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Pet Care",
+        "name": "Pet Shampoo",
+        "price": 9.49,
+        "image": "https://example.com/petshampoo.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Harness",
+        "price": 16.99,
+        "image": "https://example.com/dogharness.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Food",
+        "price": 22.49,
+        "image": "https://example.com/catfood.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Pet Care",
+        "name": "Pet Carrier",
+        "price": 35.99,
+        "image": "https://example.com/petcarrier.jpg",
+        "stock": 150
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Toys",
+        "price": 8.99,
+        "image": "https://example.com/dogtoys.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Tree",
+        "price": 60.99,
+        "image": "https://example.com/cattree.jpg",
+        "stock": 100
+    },
+    {
+        "type": "Pet Care",
+        "name": "Pet Brushes",
+        "price": 5.49,
+        "image": "https://example.com/petbrushes.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Pet Care",
+        "name": "Dog Treats",
+        "price": 11.99,
+        "image": "https://example.com/dogtreats.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Pet Care",
+        "name": "Cat Litter Box",
+        "price": 14.99,
+        "image": "https://example.com/catlitterbox.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Moisturizer",
+        "price": 15.99,
+        "image": "https://example.com/moisturizer.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Shampoo",
+        "price": 7.99,
+        "image": "https://example.com/shampoo.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Conditioner",
+        "price": 8.49,
+        "image": "https://example.com/conditioner.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Toothpaste",
+        "price": 3.49,
+        "image": "https://example.com/toothpaste.jpg",
+        "stock": 1000
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Face Mask",
+        "price": 12.99,
+        "image": "https://example.com/facemask.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Lip Balm",
+        "price": 2.99,
+        "image": "https://example.com/lipbalm.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Sunscreen",
+        "price": 10.49,
+        "image": "https://example.com/sunscreen.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Hand Cream",
+        "price": 6.99,
+        "image": "https://example.com/handcream.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Body Wash",
+        "price": 5.99,
+        "image": "https://example.com/bodywash.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Deodorant",
+        "price": 4.49,
+        "image": "https://example.com/deodorant.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Nail Polish",
+        "price": 7.49,
+        "image": "https://example.com/nailpolish.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Hair Oil",
+        "price": 9.99,
+        "image": "https://example.com/hairoil.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Facial Cleanser",
+        "price": 11.49,
+        "image": "https://example.com/facialcleanser.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Eye Cream",
+        "price": 13.99,
+        "image": "https://example.com/eyecream.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Beauty & Health",
+        "name": "Makeup Remover",
+        "price": 6.29,
+        "image": "https://example.com/makeupremover.jpg",
+        "stock": 500
+    },{
+        "type": "Jam & Jelly",
+        "name": "Strawberry Jam",
+        "price": 3.99,
+        "image": "https://example.com/strawberryjam.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Grape Jelly",
+        "price": 4.29,
+        "image": "https://example.com/grapejelly.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Apricot Jam",
+        "price": 3.79,
+        "image": "https://example.com/apricotjam.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Raspberry Jam",
+        "price": 4.49,
+        "image": "https://example.com/raspberryjam.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Orange Marmalade",
+        "price": 4.99,
+        "image": "https://example.com/orangemarmalade.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Blueberry Jam",
+        "price": 5.29,
+        "image": "https://example.com/blueberryjam.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Peach Preserves",
+        "price": 4.79,
+        "image": "https://example.com/peachpreserves.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Blackberry Jam",
+        "price": 5.49,
+        "image": "https://example.com/blackberryjam.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Cherry Preserves",
+        "price": 4.99,
+        "image": "https://example.com/cherrypreserves.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Fig Jam",
+        "price": 5.99,
+        "image": "https://example.com/figjam.jpg",
+        "stock": 200
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Pineapple Jam",
+        "price": 4.89,
+        "image": "https://example.com/pineapplejam.jpg",
+        "stock": 270
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Mango Preserves",
+        "price": 5.79,
+        "image": "https://example.com/mangopreserves.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Apple Jelly",
+        "price": 3.69,
+        "image": "https://example.com/applejelly.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Ginger Jam",
+        "price": 4.39,
+        "image": "https://example.com/gingerjam.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Jam & Jelly",
+        "name": "Cranberry Sauce",
+        "price": 4.99,
+        "image": "https://example.com/cranberrysauce.jpg",
+        "stock": 350
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Whole Milk",
+        "price": 2.99,
+        "image": "https://example.com/wholemilk.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Skim Milk",
+        "price": 2.79,
+        "image": "https://example.com/skimmilk.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Almond Milk",
+        "price": 3.49,
+        "image": "https://example.com/almondmilk.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Cheddar Cheese",
+        "price": 4.99,
+        "image": "https://example.com/cheddarcheese.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Mozzarella Cheese",
+        "price": 5.49,
+        "image": "https://example.com/mozzarellacheese.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Greek Yogurt",
+        "price": 3.99,
+        "image": "https://example.com/greekyogurt.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Butter",
+        "price": 3.79,
+        "image": "https://example.com/butter.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Cream Cheese",
+        "price": 4.29,
+        "image": "https://example.com/creamcheese.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Cottage Cheese",
+        "price": 3.59,
+        "image": "https://example.com/cottagecheese.jpg",
+        "stock": 550
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Ricotta Cheese",
+        "price": 4.99,
+        "image": "https://example.com/ricottacheese.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Sour Cream",
+        "price": 2.99,
+        "image": "https://example.com/sourcream.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Half & Half",
+        "price": 3.49,
+        "image": "https://example.com/halfindhalf.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Evaporated Milk",
+        "price": 2.79,
+        "image": "https://example.com/evaporatedmilk.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Condensed Milk",
+        "price": 3.99,
+        "image": "https://example.com/condensedmilk.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Milk & Dairy",
+        "name": "Kefir",
+        "price": 4.49,
+        "image": "https://example.com/kefir.jpg",
+        "stock": 350
+    }, {
+        "type": "Drinks",
+        "name": "Orange Juice",
+        "price": 3.49,
+        "image": "https://example.com/orangejuice.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Drinks",
+        "name": "Coca-Cola",
+        "price": 1.99,
+        "image": "https://example.com/cocacola.jpg",
+        "stock": 1000
+    },
+    {
+        "type": "Drinks",
+        "name": "Pepsi",
+        "price": 1.89,
+        "image": "https://example.com/pepsi.jpg",
+        "stock": 950
+    },
+    {
+        "type": "Drinks",
+        "name": "Lemonade",
+        "price": 2.99,
+        "image": "https://example.com/lemonade.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Drinks",
+        "name": "Iced Tea",
+        "price": 2.49,
+        "image": "https://example.com/icedtea.jpg",
+        "stock": 550
+    },
+    {
+        "type": "Drinks",
+        "name": "Apple Juice",
+        "price": 3.29,
+        "image": "https://example.com/applejuice.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Drinks",
+        "name": "Ginger Ale",
+        "price": 2.19,
+        "image": "https://example.com/gingerale.jpg",
+        "stock": 450
+    },
+    {
+        "type": "Drinks",
+        "name": "Sparkling Water",
+        "price": 1.79,
+        "image": "https://example.com/sparklingwater.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Drinks",
+        "name": "Sports Drink",
+        "price": 2.69,
+        "image": "https://example.com/sportsdrink.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Drinks",
+        "name": "Energy Drink",
+        "price": 3.29,
+        "image": "https://example.com/energydrink.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Drinks",
+        "name": "Milkshake",
+        "price": 4.49,
+        "image": "https://example.com/milkshake.jpg",
+        "stock": 250
+    },
+    {
+        "type": "Drinks",
+        "name": "Coffee",
+        "price": 6.99,
+        "image": "https://example.com/coffee.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Drinks",
+        "name": "Tea",
+        "price": 3.99,
+        "image": "https://example.com/tea.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Drinks",
+        "name": "Hot Chocolate",
+        "price": 4.79,
+        "image": "https://example.com/hotchocolate.jpg",
+        "stock": 300
+    },
+    {
+        "type": "Breakfast",
+        "name": "Oatmeal",
+        "price": 3.29,
+        "image": "https://example.com/oatmeal.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Breakfast",
+        "name": "Granola",
+        "price": 4.49,
+        "image": "https://example.com/granola.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Breakfast",
+        "name": "Pancake Mix",
+        "price": 2.99,
+        "image": "https://example.com/pancakemix.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Breakfast",
+        "name": "Cereal",
+        "price": 3.99,
+        "image": "https://example.com/cereal.jpg",
+        "stock": 650
+    },
+    {
+        "type": "Breakfast",
+        "name": "Breakfast Bars",
+        "price": 5.49,
+        "image": "https://example.com/breakfastbars.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Breakfast",
+        "name": "Eggs",
+        "price": 2.89,
+        "image": "https://example.com/eggs.jpg",
+        "stock": 800
+    },
+    {
+        "type": "Breakfast",
+        "name": "Bacon",
+        "price": 4.99,
+        "image": "https://example.com/bacon.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Breakfast",
+        "name": "Bagels",
+        "price": 3.79,
+        "image": "https://example.com/bagels.jpg",
+        "stock": 550
+    },
+    {
+        "type": "Breakfast",
+        "name": "English Muffins",
+        "price": 2.69,
+        "image": "https://example.com/englishmuffins.jpg",
+        "stock": 600
+    },
+    {
+        "type": "Breakfast",
+        "name": "Fruit Juice",
+        "price": 3.49,
+        "image": "https://example.com/fruitjuice.jpg",
+        "stock": 500
+    },
+    {
+        "type": "Breakfast",
+        "name": "Yogurt",
+        "price": 1.99,
+        "image": "https://example.com/yogurt.jpg",
+        "stock": 700
+    },
+    {
+        "type": "Breakfast",
+        "name": "French Toast Mix",
+        "price": 4.29,
+        "image": "https://example.com/frenchtoastmix.jpg",
+        "stock": 400
+    },
+    {
+        "type": "Breakfast",
+        "name": "Butter",
+        "price": 3.79,
+        "image": "https://example.com/butter.jpg"
+    }
+]
