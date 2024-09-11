@@ -4,6 +4,7 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const morgan = require("morgan");
 const { productRouter } = require("./Router/productRouter");
+const compression = require("compression");
 const {
   signUpRouter,
   loginRouter,
@@ -20,7 +21,7 @@ dotenv.config({ path: "./config.env" });
 app.use(cors());
 app.use(morgan("dev"));
 app.use(express.static("public"));
-
+app.use(compression());
 //EndPoints
 app.use("/Product", productRouter);
 app.use("/SignUp", signUpRouter);
