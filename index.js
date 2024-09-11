@@ -19,6 +19,7 @@ app.use(express.json());
 dotenv.config({ path: "./config.env" });
 app.use(cors());
 app.use(morgan("dev"));
+app.use(express.static("public"));
 
 //EndPoints
 app.use("/Product", productRouter);
@@ -29,10 +30,13 @@ app.use("/updateProfile", updateImageRouter);
 app.use("/checkout", checkoutRouter);
 app.use("/updatePassword", updatePassword);
 app.use("/checkOutByid", checkOutByid);
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
 /////
 
 mongoose
-  .connect(process.env.DATABASE_NAME)
+  .connect("mongodb+srv://mosha:mosha123@cluster0.je0qo.mongodb.net/")
   .then(() => {
     console.log("Connected to database Suucessfullt");
     app.listen(process.env.PORT | 3000, () => {
