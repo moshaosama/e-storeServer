@@ -15,12 +15,14 @@ const {
 } = require("./Router/userRouter");
 const { cartRouter } = require("./Router/cartRouter");
 const { checkoutRouter, checkOutByid } = require("./Router/checkoutRouter");
-
+const { corsOptions } = require("./config/corsOptions");
+// const { connectDB } = require("./config/db");
+// Connect to the databases
+// connectDB();
 const app = express();
-
 app.use(express.json());
-dotenv.config({ path: "./config.env" });
-app.use(cors());
+dotenv.config();
+app.use(cors(corsOptions));
 app.use(morgan("dev"));
 app.use(express.static("public"));
 app.use(compression());
@@ -40,15 +42,14 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-// Connect to database and start server
 mongoose
-  .connect(process.env.DATABASE_NAME)
+  .connect(process.env.MONGO_URI)
   .then(() => {
-    console.log("Connected to database successfully");
-    app.listen(process.env.PORT || 3000, () => {
-      console.log("Listening on port " + (process.env.PORT || 3000));
+    console.log("Connect to Database Successfully");
+    app.listen(process.env.PORT, () => {
+      console.log("Listening on port " + process.env.PORT);
     });
   })
-  .catch((error) => {
-    console.error("Error connecting to database:", error);
+  .catch((err) => {
+    console.log(`Error: ${err.message}`);
   });
