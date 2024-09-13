@@ -36,7 +36,7 @@ app.use("/updatePassword", updatePassword);
 app.use("/checkOutByid", checkOutByid);
 
 // Serve the index.html file for any unmatched routes
-app.get("*", (res) => {
+app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
