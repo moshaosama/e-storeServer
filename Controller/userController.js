@@ -2,17 +2,16 @@ const User = require("../Models/userModels");
 const bcrypt = require("bcrypt");
 const JWT = require("jsonwebtoken");
 const Multer = require("multer");
-const nodemailer = require("nodemailer");
 const { mail } = require("./sendEmail");
 
 const Storage = Multer.diskStorage({
-  destination: (req, file, cb) => {
+  destination: (cb) => {
     cb(
       null,
       "/Users/Mohamed/Desktop/Project Node js/e-commerce/Client/e-commerce/public"
     );
   },
-  filename: (req, file, cb) => {
+  filename: (file, cb) => {
     cb(null, file.originalname);
   },
 });

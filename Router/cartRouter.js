@@ -1,7 +1,6 @@
 const express = require("express");
 const cartRouter = express.Router();
 const cartController = require("../Controller/cartController");
-const userController = require("../Controller/userController");
 
 cartRouter
   .route("/:_id")

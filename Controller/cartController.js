@@ -44,7 +44,7 @@ exports.getAllCarts = async (req, res) => {
 
 exports.deleteCart = async (req, res) => {
   const id = req.params._id;
-  const deleteCart = await Cart.findByIdAndDelete(id, {
+  await Cart.findByIdAndDelete(id, {
     new: true,
   });
   res.status(204).json({

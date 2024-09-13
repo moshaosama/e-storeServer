@@ -1,7 +1,6 @@
 const stripe = require("stripe")(
   "sk_test_51PtbHPRtL4n1EJlVnKicJaw6dlT35fKv6JTWtkl1xAVUxXhAkg6fdrhZGn6s0nLuWosLMUcxq8kuCk5zooJx03oL00uNSPiA4t"
 );
-const { Checkout } = require("stripe/lib/resources");
 const { Cart } = require("../Models/CartModel");
 const { checkOut } = require("../Models/checkOutModels");
 const User = require("../Models/userModels");
